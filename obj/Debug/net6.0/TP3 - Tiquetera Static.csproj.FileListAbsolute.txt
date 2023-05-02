@@ -1,0 +1,45 @@
+Z:\2023\programacion\TP3 - Tiquetera Static\bin\Debug\net6.0\TP3 - Tiquetera Static.exe
+Z:\2023\programacion\TP3 - Tiquetera Static\bin\Debug\net6.0\TP3 - Tiquetera Static.deps.json
+Z:\2023\programacion\TP3 - Tiquetera Static\bin\Debug\net6.0\TP3 - Tiquetera Static.runtimeconfig.json
+Z:\2023\programacion\TP3 - Tiquetera Static\bin\Debug\net6.0\TP3 - Tiquetera Static.dll
+Z:\2023\programacion\TP3 - Tiquetera Static\bin\Debug\net6.0\TP3 - Tiquetera Static.pdb
+Z:\2023\programacion\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.csproj.AssemblyReference.cache
+Z:\2023\programacion\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2023\programacion\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.AssemblyInfoInputs.cache
+Z:\2023\programacion\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.AssemblyInfo.cs
+Z:\2023\programacion\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.csproj.CoreCompileInputs.cache
+Z:\2023\programacion\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.dll
+Z:\2023\programacion\TP3 - Tiquetera Static\obj\Debug\net6.0\refint\TP3 - Tiquetera Static.dll
+Z:\2023\programacion\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.pdb
+Z:\2023\programacion\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.genruntimeconfig.cache
+Z:\2023\programacion\TP3 - Tiquetera Static\obj\Debug\net6.0\ref\TP3 - Tiquetera Static.dll
+C:\Users\MARCOS\Downloads\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.csproj.AssemblyReference.cache
+C:\Users\MARCOS\Downloads\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCOS\Downloads\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.AssemblyInfoInputs.cache
+C:\Users\MARCOS\Downloads\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.AssemblyInfo.cs
+C:\Users\MARCOS\Downloads\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.csproj.CoreCompileInputs.cache
+C:\Users\MARCOS\Downloads\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.dll
+C:\Users\MARCOS\Downloads\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\refint\TP3 - Tiquetera Static.dll
+C:\Users\MARCOS\Downloads\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.pdb
+C:\Users\MARCOS\Downloads\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\bin\Debug\net6.0\TP3 - Tiquetera Static.exe
+C:\Users\MARCOS\Downloads\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\bin\Debug\net6.0\TP3 - Tiquetera Static.deps.json
+C:\Users\MARCOS\Downloads\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\bin\Debug\net6.0\TP3 - Tiquetera Static.runtimeconfig.json
+C:\Users\MARCOS\Downloads\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\bin\Debug\net6.0\TP3 - Tiquetera Static.dll
+C:\Users\MARCOS\Downloads\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\bin\Debug\net6.0\TP3 - Tiquetera Static.pdb
+C:\Users\MARCOS\Downloads\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.genruntimeconfig.cache
+C:\Users\MARCOS\Downloads\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\ref\TP3 - Tiquetera Static.dll
+Z:\TP3 - Tiquetera Static (2)\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\bin\Debug\net6.0\TP3 - Tiquetera Static.exe
+Z:\TP3 - Tiquetera Static (2)\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\bin\Debug\net6.0\TP3 - Tiquetera Static.deps.json
+Z:\TP3 - Tiquetera Static (2)\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\bin\Debug\net6.0\TP3 - Tiquetera Static.runtimeconfig.json
+Z:\TP3 - Tiquetera Static (2)\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\bin\Debug\net6.0\TP3 - Tiquetera Static.dll
+Z:\TP3 - Tiquetera Static (2)\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\bin\Debug\net6.0\TP3 - Tiquetera Static.pdb
+Z:\TP3 - Tiquetera Static (2)\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.csproj.AssemblyReference.cache
+Z:\TP3 - Tiquetera Static (2)\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TP3 - Tiquetera Static (2)\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.AssemblyInfoInputs.cache
+Z:\TP3 - Tiquetera Static (2)\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.AssemblyInfo.cs
+Z:\TP3 - Tiquetera Static (2)\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.csproj.CoreCompileInputs.cache
+Z:\TP3 - Tiquetera Static (2)\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.dll
+Z:\TP3 - Tiquetera Static (2)\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\refint\TP3 - Tiquetera Static.dll
+Z:\TP3 - Tiquetera Static (2)\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.pdb
+Z:\TP3 - Tiquetera Static (2)\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\TP3 - Tiquetera Static.genruntimeconfig.cache
+Z:\TP3 - Tiquetera Static (2)\TP3 - Tiquetera Static (1)\TP3 - Tiquetera Static\obj\Debug\net6.0\ref\TP3 - Tiquetera Static.dll
